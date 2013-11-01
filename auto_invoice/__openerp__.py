@@ -5,7 +5,7 @@
     'version': '1.0',
     'category': 'sale',
     'description': u"""
-    Auto invioce
+    add an option in order_policy,with it you will creat invoice automatically!
     """,
     'author': 'ShineIT<contact@openerp.cn>',
     'website': 'http://www.openerp.cn/',
