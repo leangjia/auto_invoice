@@ -3,7 +3,7 @@
 
 ###############################################################################
 # #
-# auto_invioce for OpenERP #
+# auto_invoice for OpenERP #
 # Copyright (C) 2013 ShineIT<contact@openerp.cn> #
 # #
 # This program is free software: you can redistribute it and/or modify #
