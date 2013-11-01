@@ -8,6 +8,7 @@
     Auto invioce
     """,
     'author': 'ShineIT<contact@openerp.cn>',
+    'website': 'http://www.openerp.cn/',
     'depends': ['sale_stock',],
     'data': [
         'sale_workflow.xml',
